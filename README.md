@@ -9,4 +9,4 @@ You can Fantasy Skybox FREE on the [Asset Store](https://assetstore.unity.com/pa
 
 ## License
 
-This project is licensed under the MIT License - please see [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the MIT License - please see [LICENSE](LICENSE) for details.
